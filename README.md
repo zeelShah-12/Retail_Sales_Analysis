@@ -69,5 +69,4 @@ This project explores historical retail sales data to answer key business questi
 
 ---
 
-## 📌 Folder Structure
 
